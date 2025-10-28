@@ -71,7 +71,7 @@ https://kaspi.kz/shop/search?redirect=listing&q=%3AallMerchants%{MERCHANT_ID}
 5. Copy the numerical part that replaces {MERCHANT_ID}.
 Be careful to copy only the number.
 
-Example (you can include this if you want):
+Example (you can use this if you want to test):
 ```
 https://kaspi.kz/shop/search?redirect=listing&q=%3AallMerchants%30108317
 ```
@@ -130,3 +130,4 @@ This project is released under the MIT License.
 You are free to use, modify, and distribute it for personal or commercial purposes.
 
 ~ designed & coded by Zhandos (ofc !without help of copilot)
+
