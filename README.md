@@ -2,7 +2,7 @@
 
 This project is a Python-based web scraper for collecting product data from **Kaspi.kz** merchant pages using **Selenium**. It emulates a mobile browser session to improve compatibility with the site layout and extracts key product details such as title, price, SKU, reviews, and links.
 
-
+Can be useful in market analyzing projects.
 ---
 
 ## Features
@@ -71,7 +71,7 @@ https://kaspi.kz/shop/search?redirect=listing&q=%3AallMerchants%{MERCHANT_ID}
 5. Copy the numerical part that replaces {MERCHANT_ID}.
 Be careful to copy only the number.
 
-Example (you can use this if you want to test):
+Example (MERCHANT_ID = 30108317)
 ```
 https://kaspi.kz/shop/search?redirect=listing&q=%3AallMerchants%30108317
 ```
@@ -130,4 +130,5 @@ This project is released under the MIT License.
 You are free to use, modify, and distribute it for personal or commercial purposes.
 
 ~ designed & coded by Zhandos (ofc !without help of copilot)
+
 
